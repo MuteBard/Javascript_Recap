@@ -12,13 +12,13 @@
     There's no compilation step before you can start running your code.
     An interpreter starts translating their first line and just runs the code for us.
 
-    Because of this, an interpreter is a natural fit for something like JavaScript, right, a JavaScript
+    Because of this, an interpreter is a natural fit for something like JavaScript. A JavaScript
     file gets sent from the server to the browser to the client on the front end.
     And we want that JavaScript to execute right away because our users are going to be waiting on the Web
 
 ## Con with interpreter
 
-    the problem with interpreters is that when you're running the same code more than once, for example, 
+    The problem with interpreters is that when you're running the same code more than once, for example, 
     if you're in a loop like this one over here where we're running this piece of code over and over and over,
     even though it gives us the same result, it can get really, really slow. The compiler helps with this.
 

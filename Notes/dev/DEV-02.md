@@ -19,3 +19,9 @@
     this allows the engine to understand what's going on in the program and break things down one by one.
 
 ![](../images/DEV-02/DEV-02-A2.png)
+
+## Output
+
+    And once in AST form, it goes through the interpreter, Profiler, compiler (discussed later)
+    whole engine is going to spit out some code that the CPU is going to understand
+    to give it instructions.

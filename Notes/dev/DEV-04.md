@@ -11,7 +11,8 @@
 ![](../images/DEV-04/DEV-04-A2.png)
 
     An interpreter translates and read the files line by line on the fly. 
-    Interpreting code simply means taking a set of instructions.
+    Interpreting code simply means taking a set of instructions and returning
+    an answer and doing something with that code.
 
 ## Compilers
 

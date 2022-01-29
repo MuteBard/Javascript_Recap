@@ -6,5 +6,6 @@
 
 ## External references:
 
-### DEV-13
+### Javascript_Specifics Repo (Used in DEV-13)
+
 <https://github.com/MuteBard/Javascript_Specifics/tree/main/dev>

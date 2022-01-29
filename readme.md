@@ -8,4 +8,4 @@
 
 ### Javascript_Specifics Repo (Used in DEV-13)
 
-<https://github.com/MuteBard/Javascript_Specifics/tree/main/dev>
+<https://github.com/MuteBard/Node_Internals/tree/main/dev>

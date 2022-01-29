@@ -15,8 +15,8 @@
 
 ## ***Its complicated
 
-<https://github.com/MuteBard/Javascript_Specifics/tree/main/dev>
+<https://github.com/MuteBard/Node_Internals/tree/main/dev>
 
 ## the 'too long didnt read version'
 
-<https://github.com/MuteBard/Javascript_Specifics/blob/main/dev/DEV-08.md>
+<https://github.com/MuteBard/Node_Internals/blob/main/dev/DEV-08.md>

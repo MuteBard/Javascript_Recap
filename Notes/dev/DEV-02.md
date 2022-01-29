@@ -22,6 +22,6 @@
 
 ## Output
 
-    And once in AST form, it goes through the interpreter, Profiler, compiler (discussed later)
+    And once in AST form, it goes through the interpreter, profiler, compiler (discussed later)
     whole engine is going to spit out some code that the CPU is going to understand
     to give it instructions.

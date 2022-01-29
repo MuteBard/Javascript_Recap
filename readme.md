@@ -9,3 +9,6 @@
 ### Node_Internals Repo (Used in DEV-13)
 
 <https://github.com/MuteBard/Node_Internals/tree/main/dev>
+
+### JavaScript Cheat Sheet: The Advanced Concepts 
+<https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/?utm_source=udemy&utm_medium=coursecontent#inline-caching>

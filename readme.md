@@ -6,6 +6,6 @@
 
 ## External references:
 
-### Javascript_Specifics Repo (Used in DEV-13)
+### Node_Internals Repo (Used in DEV-13)
 
 <https://github.com/MuteBard/Node_Internals/tree/main/dev>
